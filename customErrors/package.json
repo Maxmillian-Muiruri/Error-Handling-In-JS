@@ -1,0 +1,11 @@
+{
+  "name": "customerrors",
+  "version": "1.0.0",
+  "description": "```js\r let json = `{ \"name\": \"John\", \"age\": 30 }`;\r ```",
+  "main": "customErrors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
